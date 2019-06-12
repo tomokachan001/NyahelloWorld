@@ -1,2 +1,6 @@
 # NyahelloWorld
-Basic 35P webpage for SakuraMiko
+Basic 35P webpage for SakuraMiko.
+Details soon. 
+
+# License
+Soon.
